@@ -1,4 +1,4 @@
-Model01
+Springboard - Logistic Regression Model
 ========
 
 coming soon!
